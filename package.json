@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/index.js",
     "build": "webpack --config webpack.prod.js ",
-    "start": "webpack-dev-server --config webpack.base.js --open"
+    "start": "npx webpack-dev-server --config webpack.base.js --open"
   },
   "repository": {
     "type": "git",
