@@ -1,0 +1,24 @@
+{
+  "name": "blef_webapp",
+  "version": "1.0.0",
+  "description": "The webapp for the game of Blef",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Blef-team/blef_webapp.git"
+  },
+  "keywords": [],
+  "author": "Blef-team",
+  "license": "Affero General Public License v3",
+  "bugs": {
+    "url": "https://github.com/Blef-team/blef_webapp/issues"
+  },
+  "homepage": "https://github.com/Blef-team/blef_webapp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
